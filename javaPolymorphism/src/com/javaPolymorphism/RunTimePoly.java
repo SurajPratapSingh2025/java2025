@@ -1,5 +1,12 @@
 package com.javaPolymorphism;
 
+class Car {
+	public void milage() {
+		System.out.println("milage");
+	}
+	public void speed() {
+		System.out.println("speed");
+	}
 class Thar extends Car{
 	public void milage() {
 		System.out.println("tharMilage");
@@ -17,13 +24,6 @@ class Bmw extends Car{
 	}
 }
 
-class Car {
-	public void milage() {
-		System.out.println("milage");
-	}
-	public void speed() {
-		System.out.println("speed");
-	}
 }
 
 class Garage {
