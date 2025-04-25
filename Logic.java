@@ -24,6 +24,14 @@ public class Logic {
 //	static{
 //		System.out.println("I love my india");
 //	}
+
+	
+	//print msg without semicolon
+//	public static void main(String[] args) {
+//		for(int i=1; i<=2; System.out.println("Hello World")) {
+//			i++;
+//		}
+//	}
 	
 	
 	//give String parameter in main method
